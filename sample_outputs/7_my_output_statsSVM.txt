@@ -1,0 +1,16 @@
+Classifier : SVM 
+             10-fold cross-validation 
+Accuracy : 0.517647 
+Confusion Matrix : (Gold/Prediction)
+  P     N       O
+P 3.2	3	0.3	
+N 1.1	5.1	0.3	
+O 1.1	2.4	0.5	
+Overall Precision : 0.510951 
+Overall Recall : 0.467308 
+Precision P : 0.592593 
+Precision N : 0.485714 
+Precision O : 0.454545 
+Recall P : 0.492308 
+Recall N : 0.784615 
+Recall O : 0.125000 

@@ -1,0 +1,16 @@
+Classifier : NB 
+             10-fold cross-validation 
+Accuracy : 0.700000 
+Confusion Matrix : (Gold/Prediction)
+  P     N       O
+P 4.8	0.9	0.8	
+N 0.3	5.9	0.3	
+O 1.7	1.1	1.2	
+Overall Precision : 0.658152 
+Overall Recall : 0.648718 
+Precision P : 0.705882 
+Precision N : 0.746835 
+Precision O : 0.521739 
+Recall P : 0.738462 
+Recall N : 0.907692 
+Recall O : 0.300000 
