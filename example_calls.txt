@@ -1,0 +1,33 @@
+Tunga hocanýn sorusu
+
+1- NB_nostem_type1
+
+my_classification('NB',0,1,'"C:\Program Files (x86)\Python35-32\python.exe"', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\dnmAll_reviews.txt', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\out','E:\doktora\yeterlilik\TAKEHOME\Tunga\SentiTurkNet\my_STN_dict.txt')
+
+2- NB_stem_type1
+
+my_classification('NB',1,1,'"C:\Program Files (x86)\Python35-32\python.exe"', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\dnmAll_reviews.txt', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\out','E:\doktora\yeterlilik\TAKEHOME\Tunga\SentiTurkNet\my_STN_dict.txt')
+
+3- SVM_nostem_type1
+
+my_classification('SVM',0,1,'"C:\Program Files (x86)\Python35-32\python.exe"', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\dnmAll_reviews.txt', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\out','E:\doktora\yeterlilik\TAKEHOME\Tunga\SentiTurkNet\my_STN_dict.txt')
+
+4- SVM_stem_type1
+
+my_classification('SVM',1,1,'"C:\Program Files (x86)\Python35-32\python.exe"', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\dnmAll_reviews.txt', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\out','E:\doktora\yeterlilik\TAKEHOME\Tunga\SentiTurkNet\my_STN_dict.txt')
+
+5- SVM_nostem_type2
+
+my_classification('SVM',0,2,'"C:\Program Files (x86)\Python35-32\python.exe"', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\dnmAll_reviews.txt', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\out','E:\doktora\yeterlilik\TAKEHOME\Tunga\SentiTurkNet\my_STN_dict.txt')
+
+6- SVM_stem_type2
+
+my_classification('SVM',1,2,'"C:\Program Files (x86)\Python35-32\python.exe"', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\dnmAll_reviews.txt', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\out','E:\doktora\yeterlilik\TAKEHOME\Tunga\SentiTurkNet\my_STN_dict.txt')
+
+7- SVM_nostem_type3
+
+my_classification('SVM',0,3,'"C:\Program Files (x86)\Python35-32\python.exe"', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\dnmAll_reviews.txt', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\out','E:\doktora\yeterlilik\TAKEHOME\Tunga\SentiTurkNet\my_STN_dict.txt')
+
+8- SVM_stem_type3
+
+my_classification('SVM',1,3,'"C:\Program Files (x86)\Python35-32\python.exe"', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\dnmAll_reviews.txt', 'E:\doktora\yeterlilik\TAKEHOME\Tunga\code\out','E:\doktora\yeterlilik\TAKEHOME\Tunga\SentiTurkNet\my_STN_dict.txt')
