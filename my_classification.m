@@ -182,4 +182,3 @@ my_output_results(output_folder, classifier_choice, all_accuracy,all_conf_mat);
         fclose(output_fid);
     end
 end
-
