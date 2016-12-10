@@ -9,15 +9,18 @@ The entry point is the Matlab file. It then calls python file.<br />
 The parameters for Matlab:<br />
 
 1. classifier_choice<br />
-   values: 'NB' for multinomial naive bayes classifier<br />
+   values: <br />
+           'NB' for multinomial naive bayes classifier<br />
            'SVM' for SVM classifier<br />
 
 2. stem_flag<br />
-   values: 0 for no stemming<br />
+   values: <br />
+           0 for no stemming<br />
            1 for do stemming<br />
 
 3. featureset_type<br />
-   values: 1 for binary bow features<br />
+   values: <br />
+           1 for binary bow features<br />
            2 for binary bow features + SentiTurkNet features<br />
            3 for only SentiTurkNet features<br />
 
